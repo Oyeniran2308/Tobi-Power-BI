@@ -34,4 +34,9 @@ The Dataset used is a secondary data given by my tutor 👨 ***(Mr. David)*** to
 - **Unit Sales Insights**
   - *Units Sold per Region:* North East sells the most units, reaching 208,893 units, followed by South West with 169,730 units sold. However, despite strong unit sales, North Central lags in revenue, suggesting that lower-priced or discounted products might be more popular here.
   - *Max Units Sold by Line of Business:* Service Plans sold the most units, at 244 units, indicating a high interest in after-sales support, but possibly lower profit margins as it contributes the least in terms of total revenue.
+### Key Insights
+- **Strategic Focus on Low-Performing Regions:** North Central and North West show underperformance in both revenue and units sold. Tailored marketing campaigns and sales initiatives could help boost sales in these regions.
+- **High Dependency on Workdays:** The highest revenue generation happens on workdays, indicating reliance on business-to-business (B2B) transactions. Enhancing promotions on non-workdays (e.g., public holidays) could help increase sales during off-peak periods.
+- **Diversification Opportunities:** While Copier and Parts sales are strong, Printer Sales lag behind. This might be a good area to focus marketing efforts or introduce competitive pricing and promotions.
+- **Consistency in Sales Across Days:** Product lines such as Parts and Service Plans have consistent performance across all days, which indicates resilience. These could be leveraged to stabilize revenue during periods of lower sales in other categories.
 
