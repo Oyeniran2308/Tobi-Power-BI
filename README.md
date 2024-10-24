@@ -7,4 +7,4 @@ This Project uses PowerBI to reveals insight into the dataset containing revenue
 ### [Analysis](analysis)
 ### [Key Insight](key_insight)
 
-### Introduction
+## Introduction
